@@ -86,7 +86,7 @@ I design and build **offensive and defensive security tooling from scratch** —
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Ujas-Gohil-Cyber-Security)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/ujasgohil-cybersecurity)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://portfolio-xi-ten-6tvuh9ch4x.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://ujas-gohil-cyber-security.me/)
 
 <br>
 
