@@ -1,97 +1,244 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=200&section=header&text=UJAS%20GOHIL&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Python%20Automator&descAlignY=55&descSize=18" width="100%"/>
+# `UJAS GOHIL`
 
-<a href="https://github.com/Ujas-Gohil-Cyber-Security">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duty=800&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Breaking+networks+to+build+better+defenses;Python+%2B+Scapy+%3D+Custom+Security+Tooling;DNS+Analysis+%7C+SSL+Inspection+%7C+Infra+Recon;Building+Open-Source+Offensive+%2F+Defensive+Tools" alt="Typing SVG" />
-</a>
+### `Cybersecurity Student | Python Developer`
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ujas-Gohil-Cyber-Security&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Ujas-Gohil-Cyber-Security?style=flat-square&color=00FF9C&labelColor=0D1117)
-
-</div>
-
-<br>
-
-## `> whoami`
-
-```yaml
-role: "Cybersecurity Researcher & Security Tooling Engineer"
-focus: ["Network Security", "Offensive Recon", "Python Automation"]
-mission: >
-  Building lean, high-signal security tools from first principles —
-  packet-level traffic analysis, infrastructure fingerprinting,
-  and vulnerability detection engines that don't rely on bloated frameworks.
-philosophy: "Understand the packet. Automate the recon. Ship the tool."
+```text
+╔══════════════════════════════════════════════════════════════╗
+║              INITIALIZING SECURE CONNECTION                 ║
+║                  USER: UJAS-GOHIL                            ║
+║                  STATUS: ONLINE                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-I design and build **offensive and defensive security tooling from scratch** — not wrappers around existing scanners, but purpose-built engines for packet analysis, DNS/SSL reconnaissance, and web vulnerability detection. My work sits at the intersection of **network internals**, **automation**, and **applied security research**.
+</div>
 
-<br>
+<table>
+<tr>
+<td width="40%" valign="middle" align="center">
 
-## `> tech_stack --category=all`
+### `./profile --portrait`
+
+<pre>
+@@@@@@@@@@@@%##########%@@@@@@@@@@@@
+@@@@@@@@@@##%@@@@@@@@@%%##@@@@@@@@@@
+@@@@@@@@##%@@@@@@@@@@@@@@%##@@@@@@@@
+@@@@@@%#%@@@@@@@@@@@@@@@@@@%#@@@@@@@
+@@@@@%*%%%%%%%%%%%%%@%%@@@@@%#%@@@@@
+@@@@%*%%%%%%%%%%%%%%%%%%@@@@@@#%@@@@
+@@@%#%%%%%%%%@@%%%%%%@@%@@@@@@@#@@@@
+@@@#@%%%%%%%@@@%%@@@@@@@%@@@@@@%#@@@
+@@#%@%%%%%%@@@@%%%#@@%%@@@@@@@@@#%@@
+@@#@@%%%%%%%@@*==:.:=*%@@@@@@@@@@#@@
+@#%@@%%%%%%%@*-.     :#@@@@@@@@@@%%@
+@#@@@%%%%%%#@+.      :%%%@@@@@@@@@#@
+%%@@@%%%%%#+#*=:    ..+%%@@@@@@@@@#%
+#%##%%%%%%*-*%@+=:+===:#%@@@@@@@@@%#
+*%**%%##%##*#@@@*-@@@%:.+@@@@@@@@@@#
+*%**%%#%=.:=*@@@-.@@@#-:*@@@@@@@@@@#
+##+*%%%%+---+**+. =**--:%@@@@@@@@@@#
+*%%@@@@@@%%##+.:-:.  :=:*@%###%%%@%*
+#%#%@@@@@@@%%#=*+==:.=#*#@@%%%%%%%%+
+*=.+%@@@@@@@@%*=-:--=*%%@@@@@@@@@%#*
++- :#%@@@@@@@%%=--.-+*@@@%@%%##***++
++-:=*%@@@@@@%%##=-=*+=***+**-.     =
+*+++*%%%@@@@%%+=***=.==            *
+%**##%@@@@@@%%=:.::. -%            %
+@*%%%%%@@@@%%#+.     :%- =.       -@
+@##%##%@@%%###*.     :#%**= .::..:#@
+@@*%#%%%%%%%%##-     :#%%%%#+#*  +@@
+@@##%%%%#%%%#%#*     .*%%%%%%%*-=#%@
+@@@*%%%%%%%%#%##-    :#%%%%%%%##@%%%
+@@@%*%%%%%%%#%##-    =@%%%%%%%#%##%%
+@@@@%*%%%%%%%%%##-   .#%%%%%%%*%%*%%
+@@@@@%*%%%%%%%%###+  =%%%%%%#*%%%%%@
+@@@@@@%*#%%%%%%###%*-#%%%%%#*@@@%%@@
+@@@@@@@@##%%%%%%##*###%%%#*#@@@@@@@@
+@@@@@@@@@@###%%%%#########@@@@@@@@@@
+@@@@@@@@@@@@%#**#*+***#%@@@@@@@@@@@@
+</pre>
+
+`[ ASCII PORTRAIT GENERATED FROM MY PHOTO ]`
+
+</td>
+<td width="60%" valign="top">
+
+### `andrew@ujas:~$ neofetch`
+
+```yaml
+User:        Ujas Gohil
+Role:        Cybersecurity Student
+Focus:       Security Research
+OS:          Linux / Kali Linux
+Languages:   Python, JavaScript
+Interests:   Network Security
+              Web Security
+              Security Automation
+Environment: VS Code, Git, Linux
+```
+
+### `./current_mission`
+
+> Learning cybersecurity by building practical tools, exploring network protocols, and understanding how security systems work.
+
+**Current Focus**
+
+- Python security automation
+- Network traffic analysis
+- DNS and SSL/TLS inspection
+- Web application security
+- Linux and networking fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## `01 // SYSTEM PROFILE`
+
+```python
+class UjasGohil:
+    def __init__(self):
+        self.role = "Cybersecurity Student"
+        self.language = ["Python", "JavaScript"]
+        self.interests = [
+            "Network Security",
+            "Web Security",
+            "Security Automation",
+            "Linux"
+        ]
+
+    def current_goal(self):
+        return "Build practical cybersecurity projects"
+
+    def philosophy(self):
+        return "Learn. Build. Test. Improve."
+```
+
+---
+
+## `02 // TECH STACK`
 
 <div align="center">
 
-**Core Language & Runtime**
+**Programming & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF9C)
 ![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+
+**Cybersecurity & Networking**
+
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C)
-
-**Network & Packet Analysis**
-
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9C)
 ![Scapy](https://img.shields.io/badge/Scapy-0D1117?style=for-the-badge&logo=python&logoColor=00FF9C)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF9C)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logo=cisco&logoColor=00FF9C)
 ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF9C)
 
-**Recon & Web Security**
-
-![DNS Analysis](https://img.shields.io/badge/DNS%20Analysis-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF9C)
-![SSL/TLS Inspection](https://img.shields.io/badge/SSL%2FTLS%20Inspection-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=00FF9C)
-![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF9C)
-![Security Headers](https://img.shields.io/badge/Security%20Headers-0D1117?style=for-the-badge&logo=shieldsdotio&logoColor=00FF9C)
-
-**Tooling & Environment**
+**Development Tools**
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
-![Regex](https://img.shields.io/badge/Regex-0D1117?style=for-the-badge&logo=regex101&logoColor=00FF9C)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C)
 
 </div>
 
-<br>
+---
 
-## `> ls ./featured-repositories`
+## `03 // FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Advanced Packet Sniffer](https://github.com/Ujas-Gohil-Cyber-Security/advanced-packet-sniffer)
+
+Network traffic analysis and packet inspection.
+
+`Python` `Scapy` `Networking`
+
+</td>
+<td width="50%" valign="top">
+
+### [Advanced Recon Tool](https://github.com/Ujas-Gohil-Cyber-Security/advanced-recon-tool)
+
+DNS analysis, SSL inspection, and website reconnaissance.
+
+`Python` `DNS` `SSL/TLS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Advanced Web Security Scanner](https://github.com/Ujas-Gohil-Cyber-Security/advanced-web-security-scanner)
+
+Web security checks and vulnerability detection.
+
+`Python` `Web Security`
+
+</td>
+<td width="50%" valign="top">
+
+### [Mini IDS](https://github.com/Ujas-Gohil-Cyber-Security/mini-ids)
+
+A lightweight intrusion detection system project.
+
+`Python` `Network Security`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 // GITHUB ANALYTICS`
 
 <div align="center">
 
-| Tool | Description | Stack |
-|---|---|---|
-| 🛰️ **[advanced-packet-sniffer](https://github.com/Ujas-Gohil-Cyber-Security/advanced-packet-sniffer)** | Real-time packet sniffer for live network traffic analysis and protocol inspection | `Python` `Scapy` |
-| 🔍 **[advanced-recon-tool](https://github.com/Ujas-Gohil-Cyber-Security/advanced-recon-tool)** | Website recon & tech fingerprinting — DNS analysis, SSL inspection, security header auditing, infra recon | `Python` `DNS` `SSL` |
-| 🛡️ **[advanced-web-security-scanner](https://github.com/Ujas-Gohil-Cyber-Security/advanced-web-security-scanner)** | Web security scanner detecting XSS/SQLi and analyzing security headers | `Python` `AppSec` |
-| 🚨 **[mini-ids](https://github.com/Ujas-Gohil-Cyber-Security/mini-ids)** | Lightweight Intrusion Detection System implementation for anomaly/traffic detection | `Python` `Networking` |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujas-Gohil-Cyber-Security&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujas-Gohil-Cyber-Security&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujas-Gohil-Cyber-Security&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ujas-Gohil-Cyber-Security&color=00FF9C&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
-<br>
+---
 
-
-
-## `> connect --secure-channel`
+## `05 // CONNECT`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Ujas-Gohil-Cyber-Security)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/ujasgohil-cybersecurity)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://ujas-gohil-cyber-security.me/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Code-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/Ujas-Gohil-Cyber-Security)
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://linkedin.com/in/ujasgohil-cybersecurity)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=100&section=footer" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF9C)](https://ujas-gohil-cyber-security.me/)
 
-`"Every open port tells a story. I automate the interviews."`
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  LEARN THE SYSTEM. UNDERSTAND THE WEAKNESS.         ║
+║  BUILD THE DEFENSE.                                  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**`[ SESSION STATUS: CONTINUOUS LEARNING ]`**
+
+<sub>Building skills, one project at a time.</sub>
 
 </div>
